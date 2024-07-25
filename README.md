@@ -1,6 +1,7 @@
 # Convex Hull
 
-![]("hull.gif")
+![hull](https://github.com/user-attachments/assets/061bdbdc-794c-43c7-977c-6b2bee591a49)
+
 
 ## Overview
 This repository contains the design and implementation of a digital circuit that computes the convex hull of a given set of points using the Jarvis March algorithm. 
